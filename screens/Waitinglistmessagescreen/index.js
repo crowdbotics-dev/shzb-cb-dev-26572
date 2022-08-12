@@ -16,7 +16,7 @@ const WaitingListMessage = params => {
             <Text>Below you will see your position in the queue:</Text>
             <View style={styles.position}>
               <View style={styles.innerPosition}>
-                <Text style={styles.positionText}>3</Text>
+                <Text style={styles.positionText}>12</Text>
               </View>
             </View>
             <View style={styles.swipe}>
